@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+        <title>CEll SUPPORT</title>
+    </head>
+    <body>
+     <style> body {
+            font-size: 30px;
+        }</style>
+     <style> li {
+            font-size: 1.5em;
+        }</style>
+<h1>Cell Support</h1>
+    <style> body {
+            background-color: rgb(209, 209, 209);
+        }</style>
+    <style>li { color:rgb(92, 83, 92);
+    }
+    </style>
+   <STYLE>a {text-decoration: none;} </STYLE>
+  <style>a { color: rgb(255, 255, 255); } 
+      
+      
+  </style>
+    <h2>Which device are you using?</h2>
+    <ul><Strong>
+    <li>Cell PRO</li>
+    <br><br>
+    <li>Cell IV HYbrid</li>
+    <br> <br>
+    <li>CellPuter</li>
+    <br><br>
+    <li>
+    <a target="_blank" href="https://www.khanacademy.org/hour-of-code/tabletx3-2020/4724997580800000">TabletX3 2020</a>
+        
+    </li>
+    <br><br>
+    <li>Copilot Run</li>
+    </Strong>
+        
+    </ul>
+
+ <style>
+       #Stuff
+       { color:rgb(0, 21, 255);
+       
+       }
+   </style>
+<style>li{font-family:fantasy;
+}
+</style>
+    
+    <h2 id="Stuff"><Strong> Join Cell 360 </Strong></h2>
+    
+    <a target="_blank" href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__iwenA9URTlHOVlER1k1Rk9XOVRDTjBIT1M1OEwxTy4u">    Like our device(s)?!  Click this to fill out form</a>
+
+
+    
+    </body>
+</html>
